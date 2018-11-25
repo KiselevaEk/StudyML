@@ -1,3 +1,4 @@
+#DMIA
 def function_1_1(my_list, n):
     s = 0
     for i in my_list:
